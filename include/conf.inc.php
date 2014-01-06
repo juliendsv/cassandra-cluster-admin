@@ -19,7 +19,7 @@
 										 'password' => ''));
 	*/
 	
-	$CASSANDRA_CLUSTERS = array(array('nodes' => array('127.0.0.1:9160'),
+	$CASSANDRA_CLUSTERS = array(array('nodes' => array('127.0.0.1:19160'),
 								     'username' => '',
 								     'password' => ''));
 	
